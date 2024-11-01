@@ -10,7 +10,9 @@
 
 Through LocalHost </br></br>🌟 Star This Repository Before Forking 😎</br>Don't Edit This Script
 
-
+- [TELEGRAM CHANNEL  JOIN NOW ](https://telegram.dog/Extra_Tv_Team_Official)
+ 
+</br>
 
 <h2>🍁 HOW TO USE : </h2>
 
