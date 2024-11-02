@@ -95,16 +95,13 @@ https://www.apachefriends.org/download.html
 - [IPTV Smarters Pro](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox&hl=en) - Media Player App For Android TV, Android Phone and Android Tab.
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
+# 📘 Note:
+🚨 If Playback Seems Slow, Then It's CricHD's Problem Not Ours 👍 <br>
+🚨 CricHD's Channels Are Temporary, Channels Can Be Opened/Closed Any Time
+
 <h3>🚸 WARNINGS :</h3>
 
 - This is Just For Educational Purpose
 - I am in no way responsible if you misuse the code and cause revenue loss to the concerned parties and owners of the portal
 - Don't Sell this Script, This is 💯% Free
 <hr>
-
-
-# 📘 Note:
-🚨 If Playback Seems Slow, Then It's CricHD's Problem Not Ours 👍 <br>
-🚨 CricHD's Channels Are Temporary, Channels Can Be Opened/Closed Any Time
-
-
