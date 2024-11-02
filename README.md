@@ -38,7 +38,7 @@ https://www.apachefriends.org/download.html
 
 ### 🅱️ Then Download This Zip File
 
-- [CRICHD.zip]([https://github.com/clsid2/mpc-hc](https://github.com/Mohd-Tauseef-khan/CricHD/raw/refs/heads/main/CRICHD.zip))</br>
+- [CRICHD.zip](https://raw.githubusercontent.com/Mohd-Tauseef-khan/CricHD/refs/heads/main/CRICHD.zip)</br>
 
 1. Locate and delete `index.php` if this is your first-time setup, then extract all files into the `htdocs` root folder in localhost. </br> 
 
